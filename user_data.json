@@ -1,0 +1,50 @@
+{
+  "910196206414753792": {
+    "requestCount": 6,
+    "responses": [
+      {
+        "question": "hi",
+        "response": "Hello! How can I assist you today?"
+      },
+      {
+        "question": "hi",
+        "response": " Hello! How can I help you today?"
+      },
+      {
+        "question": "hi",
+        "response": "Hello! How can I assist you today?"
+      },
+      {
+        "question": "what%20is%20my%20asked%20eariler%20toyou",
+        "response": "I apologize, but I am unable to remember your previous inquiries. How may I assist you today?"
+      },
+      {
+        "question": "test",
+        "response": "Testing, testing! How can I help you today?"
+      },
+      {
+        "question": "what%20is%20geometry%20dash",
+        "response": "Geometry Dash is a popular rhythm-based platformer game developed by Robert Topala. In the game, players control a square and navigate through various levels by jumping while avoiding obstacles. It is known for its challenging gameplay and catchy music. Would you like to know more about the game or have any specific questions related to it?"
+      }
+    ],
+    "apiUsed": "Primary Axios"
+  },
+  "1222137181070557216": {
+    "requestCount": 3,
+    "responses": [
+      {
+        "question": "make%20me%20a%20simple%20sentence",
+        "response": "The sky is blue."
+      },
+      {
+        "question": "I'm%20I%20gay",
+        "response": "It's important to understand that sexual orientation is a personal and complex aspect of identity. It's completely normal to have questions or uncertainties about one's sexual orientation. If you're unsure or have questions, it might be helpful to talk to a trusted friend, counselor, or LGBTQ+ support group for guidance and support. Remember, it's okay to explore and understand your feelings at your own pace."
+      },
+      {
+        "question": "what's%20the%20meaning%20of%20life%3F",
+        "response": "The meaning of life is a profound question that has been pondered by philosophers, scientists, and individuals throughout history. It is ultimately a question that each person must explore and find their own answers to. Some may find meaning in personal relationships, career aspirations, spiritual beliefs, or contributing to the betterment of society. It's a journey of self-discovery and finding what brings fulfillment and purpose to one's existence."
+      }
+    ],
+    "apiUsed": "Primary Axios"
+  }
+}
