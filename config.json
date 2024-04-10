@@ -1,6 +1,6 @@
 {
 	"prefix": "!",
-	"token": ${{ secret.POGIKO }},
+	"token": `${{ secret.POGIKO }}`,
 	"owner": "910196206414753792",
 	"client_id": "1227170515026968597",
 	"test_guild_id": "1227174693275041803"
