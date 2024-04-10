@@ -41,6 +41,7 @@
 		"axis": "^1.0.0",
 		"discord-api-types": "^0.37.43",
 		"discord.js": "^14.14.1",
+                 "express": "^4.19.2",
 		"fs-extra": "^11.2.0",
 		"yt-search": "^2.10.4",
 		"ytdl-core": "^4.11.5"
