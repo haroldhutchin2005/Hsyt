@@ -298,15 +298,15 @@ for (const folder of triggerFolders) {
 // Login into your client application with bot's token.
 
 client.login(token);
+
 const express = require("express");
 
 const app = express();
-
+const PORT = process.env.PORT || 8080;
 app.get("/", (req, res) => {
     res.send("Hello World!");
 });
 
-const PORT = process.env.PORT || 3030;
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
